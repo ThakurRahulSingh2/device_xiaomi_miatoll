@@ -9,7 +9,7 @@ git clone --depth=1 https://github.com/ProjectElixir-Devices/vendor_xiaomi_miato
 git clone --depth=1 https://github.com/ProjectElixir-Devices/vendor_xiaomi_sm6250-common.git -b 12.1  vendor/xiaomi/sm6250-common
 
 # Kernel Tree
-git clone --depth=1 https://github.com/ProjectElixir-Devices/kernel_xiaomi_sm6250.git kernel/xiaomi/sm6250
+git clone --depth=1 https://github.com/ProjectElixir-Devices/kernel_xiaomi_sm6250.git -b 13 kernel/xiaomi/sm6250
 
 # Device Extra
 git clone --depth=1 https://github.com/ArrowOS-Devices/android_device_xiaomi_extras.git -b arrow-12.0 device/xiaomi/extras
